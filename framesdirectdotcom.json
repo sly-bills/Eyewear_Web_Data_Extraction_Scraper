@@ -1,0 +1,177 @@
+[
+    {
+        "brand": "Oakley",
+        "name": "Barrelhouse",
+        "original_price": "$255",
+        "former_price": "",
+        "discount": ""
+    },
+    {
+        "brand": "Oakley",
+        "name": "Socket 5.5",
+        "original_price": "$227",
+        "former_price": "N/A",
+        "discount": ""
+    },
+    {
+        "brand": "Oakley",
+        "name": "Socket 5.5",
+        "original_price": "$227",
+        "former_price": "N/A",
+        "discount": "N/A"
+    },
+    {
+        "brand": "Oakley",
+        "name": "Holbrook RX",
+        "original_price": "$187",
+        "former_price": "",
+        "discount": ""
+    },
+    {
+        "brand": "Oakley",
+        "name": "Enigma Mass",
+        "original_price": "$255",
+        "former_price": "N/A",
+        "discount": ""
+    },
+    {
+        "brand": "Ray-Ban",
+        "name": "RB6348D",
+        "original_price": "$127.40",
+        "former_price": "$182",
+        "discount": "30% Off"
+    },
+    {
+        "brand": "Ray-Ban",
+        "name": "RB3925V",
+        "original_price": "$155.40",
+        "former_price": "$222",
+        "discount": "30% Off"
+    },
+    {
+        "brand": "Ray-Ban",
+        "name": "RB5446",
+        "original_price": "$186",
+        "former_price": "N/A",
+        "discount": ""
+    },
+    {
+        "brand": "Ray-Ban",
+        "name": "RB8780D",
+        "original_price": "$276",
+        "former_price": "N/A",
+        "discount": ""
+    },
+    {
+        "brand": "Ray-Ban",
+        "name": "RB7017",
+        "original_price": "$222",
+        "former_price": "N/A",
+        "discount": ""
+    },
+    {
+        "brand": "Ray-Ban",
+        "name": "RB5154 Clubmaster",
+        "original_price": "$222",
+        "former_price": "N/A",
+        "discount": ""
+    },
+    {
+        "brand": "Persol",
+        "name": "PO3263V",
+        "original_price": "$363",
+        "former_price": "",
+        "discount": ""
+    },
+    {
+        "brand": "Versace",
+        "name": "VE1285",
+        "original_price": "$210",
+        "former_price": "$300",
+        "discount": "30% Off"
+    },
+    {
+        "brand": "Gucci",
+        "name": "GG1340O",
+        "original_price": "$259.25",
+        "former_price": "$305",
+        "discount": "15% Off"
+    },
+    {
+        "brand": "Kate Spade",
+        "name": "Lucyann",
+        "original_price": "$161",
+        "former_price": "$230",
+        "discount": "30% Off"
+    },
+    {
+        "brand": "Burberry",
+        "name": "BE2420",
+        "original_price": "$294.70",
+        "former_price": "$421",
+        "discount": "30% Off"
+    },
+    {
+        "brand": "Dolce & Gabbana",
+        "name": "DG3415",
+        "original_price": "$234.50",
+        "former_price": "$335",
+        "discount": "30% Off"
+    },
+    {
+        "brand": "Versace",
+        "name": "VE1175B",
+        "original_price": "$221.20",
+        "former_price": "$316",
+        "discount": "30% Off"
+    },
+    {
+        "brand": "Coach",
+        "name": "HC6065",
+        "original_price": "$178.50",
+        "former_price": "$255",
+        "discount": "30% Off"
+    },
+    {
+        "brand": "Giorgio Armani",
+        "name": "AR7202",
+        "original_price": "$381.50",
+        "former_price": "$545",
+        "discount": "30% Off"
+    },
+    {
+        "brand": "RALPH by Ralph Lauren",
+        "name": "RA7158U",
+        "original_price": "$98.70",
+        "former_price": "$141",
+        "discount": "30% Off"
+    },
+    {
+        "brand": "Ray-Ban",
+        "name": "RB7047",
+        "original_price": "$176",
+        "former_price": "N/A",
+        "discount": ""
+    },
+    {
+        "brand": "Ray-Ban",
+        "name": "RB7140",
+        "original_price": "$237",
+        "former_price": "N/A",
+        "discount": ""
+    },
+    {
+        "brand": "Ray-Ban",
+        "name": "RB6335",
+        "original_price": "$210",
+        "former_price": "N/A",
+        "discount": ""
+    },
+    {
+        "brand": "Ray-Ban",
+        "name": "RB5268",
+        "original_price": "$176",
+        "former_price": "N/A",
+        "discount": ""
+    }
+]
