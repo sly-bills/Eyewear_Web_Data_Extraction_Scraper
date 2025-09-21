@@ -77,9 +77,9 @@ for holder in product_holders:
         # For Price
         price_cnt = holder.find('div', class_='prod-price-wrap')
         if price_cnt:
-            # Original Price
-            orig_price_tag = price_cnt.find('div', class_='prod-aslowas')
-            original_price = orig_price_tag.text.strip() if orig_price_tag else "N/A"
+            # Current Price
+            current_price_tag = price_cnt.find('div', class_='prod-aslowas')
+            current_price = current_price_tag.text.strip() if current_price_tag else "N/A"
 
             # Former Price
             former_price_tag = price_cnt.find('div', class_='prod-catalog-retail-price')
@@ -98,7 +98,7 @@ for holder in product_holders:
     data = {
             "brand": brand,
             "name": name,
-            "original_price": original_price,
+            "current_price": current_price,
             "former_price": former_price,
             "discount": discount
     }
