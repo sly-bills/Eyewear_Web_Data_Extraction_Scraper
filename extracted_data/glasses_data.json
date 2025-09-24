@@ -9,146 +9,38 @@
         "Discount Percentage": "None"
     },
     {
-        "Brand": "Ray-Ban",
-        "Name": "RB7046 Erika Optics",
-        "First Book Status": "Best Seller",
+        "Brand": "Armani Exchange",
+        "Name": "AX3053",
+        "First Book Status": "None",
         "Second Book Status": "None",
-        "Former Price": "$ 176.00",
+        "Former Price": "$ 132.00",
         "Current Price": "None",
         "Discount Percentage": "None"
     },
     {
-        "Brand": "Ralph by Ralph Lauren",
-        "Name": "RA7146",
-        "First Book Status": "None",
+        "Brand": "Polo Ralph Lauren",
+        "Name": "PH2083",
+        "First Book Status": "Best Seller",
         "Second Book Status": "None",
-        "Former Price": "$ 141.00",
+        "Former Price": "$ 201.00",
         "Current Price": "None",
         "Discount Percentage": "None"
     },
     {
         "Brand": "Vogue Eyewear",
-        "Name": "VO5305B",
-        "First Book Status": "Best Seller",
-        "Second Book Status": "None",
-        "Former Price": "$ 181.00",
-        "Current Price": "None",
-        "Discount Percentage": "None"
-    },
-    {
-        "Brand": "Ralph by Ralph Lauren",
-        "Name": "RA7089",
-        "First Book Status": "Best Seller",
-        "Second Book Status": "None",
-        "Former Price": "$ 157.00",
-        "Current Price": "None",
-        "Discount Percentage": "None"
-    },
-    {
-        "Brand": "Ray-Ban",
-        "Name": "RB7330 Zena Optics Bio-based",
-        "First Book Status": "None",
-        "Second Book Status": "Sustainable",
-        "Former Price": "$ 176.00",
-        "Current Price": "None",
-        "Discount Percentage": "None"
-    },
-    {
-        "Brand": "Ray-Ban",
-        "Name": "RB5383 Burbank Optics",
+        "Name": "VO3940",
         "First Book Status": "None",
         "Second Book Status": "None",
-        "Former Price": "$ 222.00",
+        "Former Price": "$ 128.00",
         "Current Price": "None",
         "Discount Percentage": "None"
     },
     {
         "Brand": "Oakley",
-        "Name": "OX8058 The Cut",
-        "First Book Status": "None",
-        "Second Book Status": "Sustainable",
-        "Former Price": "$ 172.00",
-        "Current Price": "None",
-        "Discount Percentage": "None"
-    },
-    {
-        "Brand": "Michael Kors",
-        "Name": "MK4135U Tortola",
-        "First Book Status": "None",
-        "Second Book Status": "Universal Fit",
-        "Former Price": "$ 161.00",
-        "Current Price": "None",
-        "Discount Percentage": "None"
-    },
-    {
-        "Brand": "Ray-Ban",
-        "Name": "RB5154 Clubmaster Optics",
-        "First Book Status": "None",
-        "Second Book Status": "None",
-        "Former Price": "$ 222.00",
-        "Current Price": "None",
-        "Discount Percentage": "None"
-    },
-    {
-        "Brand": "Tory Burch",
-        "Name": "TY2144U",
-        "First Book Status": "None",
-        "Second Book Status": "Sustainable",
-        "Former Price": "$ 208.00",
-        "Current Price": "None",
-        "Discount Percentage": "None"
-    },
-    {
-        "Brand": "Versace",
-        "Name": "VE3304",
-        "First Book Status": "None",
-        "Second Book Status": "None",
-        "Former Price": "$ 286.00",
-        "Current Price": "None",
-        "Discount Percentage": "None"
-    },
-    {
-        "Brand": "Oakley",
-        "Name": "OX8178 Rafter",
+        "Name": "OX8078 Hyperlink",
         "First Book Status": "Best Seller",
         "Second Book Status": "Sustainable",
-        "Former Price": "$ 172.00",
-        "Current Price": "None",
-        "Discount Percentage": "None"
-    },
-    {
-        "Brand": "Oakley",
-        "Name": "OX8055 Exchange",
-        "First Book Status": "Best Seller",
-        "Second Book Status": "None",
-        "Former Price": "$ 242.00",
-        "Current Price": "None",
-        "Discount Percentage": "None"
-    },
-    {
-        "Brand": "Scuderia Ferrari",
-        "Name": "FZ8006",
-        "First Book Status": "None",
-        "Second Book Status": "Sustainable",
-        "Former Price": "$ 154.00",
-        "Current Price": "None",
-        "Discount Percentage": "None"
-    },
-    {
-        "Brand": "Ray-Ban",
-        "Name": "RB3857V Frank Optics",
-        "First Book Status": "None",
-        "Second Book Status": "None",
-        "Former Price": "$ 210.00",
-        "Current Price": "None",
-        "Discount Percentage": "None"
-    },
-    {
-        "Brand": "Coach",
-        "Name": "HC6260U",
-        "First Book Status": "New arrival",
-        "Second Book Status": "Universal Fit",
-        "Former Price": "$ 219.00",
+        "Former Price": "$ 187.00",
         "Current Price": "None",
         "Discount Percentage": "None"
     },
@@ -162,11 +54,65 @@
         "Discount Percentage": "None"
     },
     {
-        "Brand": "Scuderia Ferrari",
-        "Name": "FZ7001",
+        "Brand": "Oakley",
+        "Name": "OX5115 Wingfold\u2122 EVS",
+        "First Book Status": "Best Seller",
+        "Second Book Status": "None",
+        "Former Price": "$ 318.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Ray-Ban",
+        "Name": "RB5279 Optics",
+        "First Book Status": "Best Seller",
+        "Second Book Status": "None",
+        "Former Price": "$ 186.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Ray-Ban",
+        "Name": "RB7330 Zena Optics Bio-based",
         "First Book Status": "None",
         "Second Book Status": "Sustainable",
-        "Former Price": "$ 191.00",
+        "Former Price": "$ 176.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Versace",
+        "Name": "VE3350",
+        "First Book Status": "None",
+        "Second Book Status": "Sustainable",
+        "Former Price": "$ 376.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Armani Exchange",
+        "Name": "AX1069",
+        "First Book Status": "Best Seller",
+        "Second Book Status": "None",
+        "Former Price": "$ 132.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Ray-Ban",
+        "Name": "RB5383 Burbank Optics",
+        "First Book Status": "None",
+        "Second Book Status": "None",
+        "Former Price": "$ 222.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Tory Burch",
+        "Name": "TY2084",
+        "First Book Status": "None",
+        "Second Book Status": "None",
+        "Former Price": "$ 228.00",
         "Current Price": "None",
         "Discount Percentage": "None"
     },
@@ -180,101 +126,11 @@
         "Discount Percentage": "None"
     },
     {
-        "Brand": "Coach",
-        "Name": "HC6197U",
-        "First Book Status": "None",
-        "Second Book Status": "Universal Fit",
-        "Former Price": "$ 219.00",
-        "Current Price": "None",
-        "Discount Percentage": "None"
-    },
-    {
-        "Brand": "Vogue Eyewear",
-        "Name": "VO5518",
-        "First Book Status": "None",
-        "Second Book Status": "None",
-        "Former Price": "$ 128.00",
-        "Current Price": "None",
-        "Discount Percentage": "None"
-    },
-    {
-        "Brand": "Dolce & Gabbana",
-        "Name": "DG5099",
-        "First Book Status": "Best Seller",
-        "Second Book Status": "None",
-        "Former Price": "$ 232.00",
-        "Current Price": "None",
-        "Discount Percentage": "None"
-    },
-    {
-        "Brand": "Ralph by Ralph Lauren",
-        "Name": "RA7133U",
-        "First Book Status": "None",
-        "Second Book Status": "Universal Fit",
-        "Former Price": "$ 141.00",
-        "Current Price": "None",
-        "Discount Percentage": "None"
-    },
-    {
         "Brand": "Michael Kors",
         "Name": "MK3070 Crested Butte",
         "First Book Status": "None",
         "Second Book Status": "None",
         "Former Price": "$ 164.00",
-        "Current Price": "None",
-        "Discount Percentage": "None"
-    },
-    {
-        "Brand": "Ray-Ban",
-        "Name": "RB5440 Optics",
-        "First Book Status": "New arrival",
-        "Second Book Status": "None",
-        "Former Price": "$ 189.00",
-        "Current Price": "None",
-        "Discount Percentage": "None"
-    },
-    {
-        "Brand": "Ray-Ban",
-        "Name": "RB7185",
-        "First Book Status": "None",
-        "Second Book Status": "None",
-        "Former Price": "$ 162.00",
-        "Current Price": "None",
-        "Discount Percentage": "None"
-    },
-    {
-        "Brand": "Ray-Ban",
-        "Name": "RB8416 Optics",
-        "First Book Status": "None",
-        "Second Book Status": "None",
-        "Former Price": "$ 276.00",
-        "Current Price": "None",
-        "Discount Percentage": "None"
-    },
-    {
-        "Brand": "Coach",
-        "Name": "HC6235U",
-        "First Book Status": "None",
-        "Second Book Status": "Universal Fit",
-        "Former Price": "$ 219.00",
-        "Current Price": "None",
-        "Discount Percentage": "None"
-    },
-    {
-        "Brand": "Burberry",
-        "Name": "BE2073",
-        "First Book Status": "Best Seller",
-        "Second Book Status": "None",
-        "Former Price": "$ 249.00",
-        "Current Price": "None",
-        "Discount Percentage": "None"
-    },
-    {
-        "Brand": "Ray-Ban",
-        "Name": "RB5268 Optics",
-        "First Book Status": "Best Seller",
-        "Second Book Status": "None",
-        "Former Price": "$ 176.00",
         "Current Price": "None",
         "Discount Percentage": "None"
     },
@@ -288,6 +144,15 @@
         "Discount Percentage": "None"
     },
     {
+        "Brand": "Ray-Ban",
+        "Name": "RB6489 Aviator Optics",
+        "First Book Status": "Best Seller",
+        "Second Book Status": "None",
+        "Former Price": "$ 210.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
         "Brand": "Armani Exchange",
         "Name": "AX3116",
         "First Book Status": "None",
@@ -297,35 +162,17 @@
         "Discount Percentage": "None"
     },
     {
-        "Brand": "Polo Ralph Lauren",
-        "Name": "PH2237U",
-        "First Book Status": "Best Seller",
-        "Second Book Status": "Universal Fit",
-        "Former Price": "$ 167.00",
-        "Current Price": "None",
-        "Discount Percentage": "None"
-    },
-    {
-        "Brand": "Ralph by Ralph Lauren",
-        "Name": "RA7170U",
-        "First Book Status": "None",
-        "Second Book Status": "Universal Fit",
-        "Former Price": "$ 141.00",
-        "Current Price": "None",
-        "Discount Percentage": "None"
-    },
-    {
-        "Brand": "Armani Exchange",
-        "Name": "AX1018",
+        "Brand": "Oakley",
+        "Name": "OX8156 Holbrook\u2122",
         "First Book Status": "Best Seller",
         "Second Book Status": "None",
-        "Former Price": "$ 153.00",
+        "Former Price": "$ 187.00",
         "Current Price": "None",
         "Discount Percentage": "None"
     },
     {
         "Brand": "Ray-Ban",
-        "Name": "RB5228 Optics",
+        "Name": "RB6238 Optics",
         "First Book Status": "None",
         "Second Book Status": "None",
         "Former Price": "$ 222.00",
@@ -333,38 +180,65 @@
         "Discount Percentage": "None"
     },
     {
-        "Brand": "Polo Ralph Lauren",
-        "Name": "PH2262",
+        "Brand": "Ray-Ban",
+        "Name": "RB6375 Optics",
+        "First Book Status": "Best Seller",
+        "Second Book Status": "None",
+        "Former Price": "$ 189.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Tory Burch",
+        "Name": "TY2144U",
         "First Book Status": "None",
         "Second Book Status": "Sustainable",
-        "Former Price": "$ 181.00",
+        "Former Price": "$ 208.00",
         "Current Price": "None",
         "Discount Percentage": "None"
     },
     {
         "Brand": "Scuderia Ferrari",
-        "Name": "FZ7002",
+        "Name": "FZ8006",
         "First Book Status": "None",
         "Second Book Status": "Sustainable",
-        "Former Price": "$ 191.00",
+        "Former Price": "$ 154.00",
         "Current Price": "None",
         "Discount Percentage": "None"
     },
     {
-        "Brand": "Michael Kors",
-        "Name": "MK4110U Avila",
-        "First Book Status": "Best Seller",
-        "Second Book Status": "Sustainable",
-        "Former Price": "$ 161.00",
+        "Brand": "Coach",
+        "Name": "HC6235U",
+        "First Book Status": "None",
+        "Second Book Status": "Universal Fit",
+        "Former Price": "$ 219.00",
         "Current Price": "None",
         "Discount Percentage": "None"
     },
     {
-        "Brand": "Emporio Armani",
-        "Name": "EA3227",
+        "Brand": "Tory Burch",
+        "Name": "TY2132U",
         "First Book Status": "None",
-        "Second Book Status": "Sustainable",
-        "Former Price": "$ 196.00",
+        "Second Book Status": "Universal Fit",
+        "Former Price": "$ 208.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Oakley",
+        "Name": "OX3232 Base Plane",
+        "First Book Status": "None",
+        "Second Book Status": "None",
+        "Former Price": "$ 255.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Ralph by Ralph Lauren",
+        "Name": "RA6055",
+        "First Book Status": "None",
+        "Second Book Status": "None",
+        "Former Price": "$ 171.00",
         "Current Price": "None",
         "Discount Percentage": "None"
     },
@@ -378,83 +252,65 @@
         "Discount Percentage": "None"
     },
     {
-        "Brand": "Oakley",
-        "Name": "OX8046 Airdrop\u2122",
-        "First Book Status": "Best Seller",
-        "Second Book Status": "Sustainable",
-        "Former Price": "$ 227.00",
-        "Current Price": "None",
-        "Discount Percentage": "None"
-    },
-    {
-        "Brand": "Oakley",
-        "Name": "OX5152 Wire Tap 2.0",
+        "Brand": "Michael Kors",
+        "Name": "MK4091 Palawan",
         "First Book Status": "None",
         "Second Book Status": "None",
-        "Former Price": "$ 387.00",
+        "Former Price": "$ 186.00",
         "Current Price": "None",
         "Discount Percentage": "None"
     },
     {
         "Brand": "Ray-Ban",
-        "Name": "RB3447V Round Metal Optics",
-        "First Book Status": "Best Seller",
-        "Second Book Status": "None",
-        "Former Price": "$ 210.00",
-        "Current Price": "None",
-        "Discount Percentage": "None"
-    },
-    {
-        "Brand": "Oakley",
-        "Name": "OX3222 Steel Plate\u2122",
-        "First Book Status": "Best Seller",
-        "Second Book Status": "None",
-        "Former Price": "$ 255.00",
-        "Current Price": "None",
-        "Discount Percentage": "None"
-    },
-    {
-        "Brand": "Coach",
-        "Name": "HC6040 Brooklyn",
-        "First Book Status": "Best Seller",
-        "Second Book Status": "None",
-        "Former Price": "$ 232.00",
-        "Current Price": "None",
-        "Discount Percentage": "None"
-    },
-    {
-        "Brand": "Emporio Armani",
-        "Name": "EA1027",
-        "First Book Status": "Best Seller",
-        "Second Book Status": "None",
-        "Former Price": "$ 183.00",
-        "Current Price": "None",
-        "Discount Percentage": "None"
-    },
-    {
-        "Brand": "Ray-Ban",
-        "Name": "RB5435 Optics",
-        "First Book Status": "None",
+        "Name": "RB5440 Optics",
+        "First Book Status": "New arrival",
         "Second Book Status": "None",
         "Former Price": "$ 189.00",
         "Current Price": "None",
         "Discount Percentage": "None"
     },
     {
+        "Brand": "Vogue Eyewear",
+        "Name": "VO4274",
+        "First Book Status": "None",
+        "Second Book Status": "None",
+        "Former Price": "$ 128.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
         "Brand": "Oakley",
-        "Name": "OX8060 Overhead",
+        "Name": "OX8149 Pitchman\u2122 R Carbon",
+        "First Book Status": "None",
+        "Second Book Status": "None",
+        "Former Price": "$ 297.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Ralph by Ralph Lauren",
+        "Name": "RA7089",
         "First Book Status": "Best Seller",
         "Second Book Status": "None",
+        "Former Price": "$ 157.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Oakley",
+        "Name": "OX8058 The Cut",
+        "First Book Status": "None",
+        "Second Book Status": "Sustainable",
         "Former Price": "$ 172.00",
         "Current Price": "None",
         "Discount Percentage": "None"
     },
     {
         "Brand": "Ray-Ban",
-        "Name": "RB5169 Optics",
-        "First Book Status": "Best Seller",
+        "Name": "RB4340V Wayfarer Ease Optics Change",
+        "First Book Status": "None",
         "Second Book Status": "None",
-        "Former Price": "$ 186.00",
+        "Former Price": "$ 268.00",
         "Current Price": "None",
         "Discount Percentage": "None"
     },
@@ -469,19 +325,199 @@
     },
     {
         "Brand": "Ray-Ban",
-        "Name": "RB8903 Optics",
-        "First Book Status": "Best Seller",
+        "Name": "RB5435 Optics",
+        "First Book Status": "None",
+        "Second Book Status": "None",
+        "Former Price": "$ 189.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Ray-Ban",
+        "Name": "RB8416 Optics",
+        "First Book Status": "None",
         "Second Book Status": "None",
         "Former Price": "$ 276.00",
         "Current Price": "None",
         "Discount Percentage": "None"
     },
     {
-        "Brand": "Michael Kors",
-        "Name": "MK4060U Telluride",
+        "Brand": "Burberry",
+        "Name": "BE2073",
         "First Book Status": "Best Seller",
+        "Second Book Status": "None",
+        "Former Price": "$ 249.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Versace",
+        "Name": "VE3304",
+        "First Book Status": "None",
+        "Second Book Status": "None",
+        "Former Price": "$ 286.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Armani Exchange",
+        "Name": "AX1034",
+        "First Book Status": "Best Seller",
+        "Second Book Status": "None",
+        "Former Price": "$ 153.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Ralph by Ralph Lauren",
+        "Name": "RA7044",
+        "First Book Status": "None",
+        "Second Book Status": "None",
+        "Former Price": "$ 157.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Scuderia Ferrari",
+        "Name": "FZ7002",
+        "First Book Status": "None",
         "Second Book Status": "Sustainable",
+        "Former Price": "$ 191.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Ray-Ban",
+        "Name": "RB5228 Optics",
+        "First Book Status": "None",
+        "Second Book Status": "None",
+        "Former Price": "$ 222.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Oakley",
+        "Name": "OX3249 Extender",
+        "First Book Status": "Best Seller",
+        "Second Book Status": "None",
+        "Former Price": "$ 208.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Coach",
+        "Name": "HC5111",
+        "First Book Status": "Best Seller",
+        "Second Book Status": "None",
+        "Former Price": "$ 232.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Michael Kors",
+        "Name": "MK4030 Vivianna II",
+        "First Book Status": "Best Seller",
+        "Second Book Status": "None",
         "Former Price": "$ 161.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Vogue Eyewear",
+        "Name": "VO5518",
+        "First Book Status": "None",
+        "Second Book Status": "None",
+        "Former Price": "$ 128.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Oakley",
+        "Name": "OX3036 Foil RQ",
+        "First Book Status": "New arrival",
+        "Second Book Status": "None",
+        "Former Price": "$ 172.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Michael Kors",
+        "Name": "MK4054 CaptIVa",
+        "First Book Status": "None",
+        "Second Book Status": "None",
+        "Former Price": "$ 216.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Polo Ralph Lauren",
+        "Name": "PH2237U",
+        "First Book Status": "Best Seller",
+        "Second Book Status": "Universal Fit",
+        "Former Price": "$ 167.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Armani Exchange",
+        "Name": "AX1064",
+        "First Book Status": "Best Seller",
+        "Second Book Status": "None",
+        "Former Price": "$ 153.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Oakley",
+        "Name": "OX5152 Wire Tap 2.0",
+        "First Book Status": "None",
+        "Second Book Status": "None",
+        "Former Price": "$ 387.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Coach",
+        "Name": "HC6082",
+        "First Book Status": "Best Seller",
+        "Second Book Status": "None",
+        "Former Price": "$ 219.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Ralph by Ralph Lauren",
+        "Name": "RA7170U",
+        "First Book Status": "None",
+        "Second Book Status": "Universal Fit",
+        "Former Price": "$ 141.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Coach",
+        "Name": "HC6197U",
+        "First Book Status": "None",
+        "Second Book Status": "Universal Fit",
+        "Former Price": "$ 219.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Dolce & Gabbana",
+        "Name": "DG5099",
+        "First Book Status": "Best Seller",
+        "Second Book Status": "None",
+        "Former Price": "$ 232.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Coach",
+        "Name": "HC6172",
+        "First Book Status": "Best Seller",
+        "Second Book Status": "None",
+        "Former Price": "$ 232.00",
         "Current Price": "None",
         "Discount Percentage": "None"
     },
@@ -491,24 +527,6 @@
         "First Book Status": "Best Seller",
         "Second Book Status": "None",
         "Former Price": "$ 414.00",
-        "Current Price": "None",
-        "Discount Percentage": "None"
-    },
-    {
-        "Brand": "Ray-Ban",
-        "Name": "RB3758V Ari Optics",
-        "First Book Status": "New arrival",
-        "Second Book Status": "None",
-        "Former Price": "$ 176.00",
-        "Current Price": "None",
-        "Discount Percentage": "None"
-    },
-    {
-        "Brand": "Oakley",
-        "Name": "OX8078 Hyperlink",
-        "First Book Status": "Best Seller",
-        "Second Book Status": "Sustainable",
-        "Former Price": "$ 187.00",
         "Current Price": "None",
         "Discount Percentage": "None"
     },
@@ -523,10 +541,82 @@
     },
     {
         "Brand": "Coach",
-        "Name": "HC6243U",
-        "First Book Status": "None",
+        "Name": "HC6260U",
+        "First Book Status": "New arrival",
         "Second Book Status": "Universal Fit",
+        "Former Price": "$ 219.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Polo Ralph Lauren",
+        "Name": "PH2126",
+        "First Book Status": "Best Seller",
+        "Second Book Status": "None",
+        "Former Price": "$ 194.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Oakley",
+        "Name": "OY8002 Crosslink\u00ae XS (Youth Fit)",
+        "First Book Status": "Kids",
+        "Second Book Status": "None",
+        "Former Price": "$ 135.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Polo Ralph Lauren",
+        "Name": "PH1190",
+        "First Book Status": "Best Seller",
+        "Second Book Status": "None",
+        "Former Price": "$ 181.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Ray-Ban",
+        "Name": "RB3758V Ari Optics",
+        "First Book Status": "New arrival",
+        "Second Book Status": "None",
+        "Former Price": "$ 176.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Oakley",
+        "Name": "OX8032 Hex Jector",
+        "First Book Status": "Best Seller",
+        "Second Book Status": "Universal Fit",
+        "Former Price": "$ 187.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Emporio Armani",
+        "Name": "EA3227",
+        "First Book Status": "None",
+        "Second Book Status": "Sustainable",
+        "Former Price": "$ 196.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Ray-Ban",
+        "Name": "RB5421 Optics",
+        "First Book Status": "Best Seller",
+        "Second Book Status": "None",
         "Former Price": "$ 210.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Ralph by Ralph Lauren",
+        "Name": "RA7071",
+        "First Book Status": "Best Seller",
+        "Second Book Status": "None",
+        "Former Price": "$ 141.00",
         "Current Price": "None",
         "Discount Percentage": "None"
     },
@@ -540,26 +630,287 @@
         "Discount Percentage": "None"
     },
     {
-        "Brand": "Ralph by Ralph Lauren",
-        "Name": "RA7044",
-        "First Book Status": "None",
-        "Second Book Status": "None",
-        "Former Price": "$ 157.00",
-        "Current Price": "None",
-        "Discount Percentage": "None"
-    },
-    {
-        "Brand": "Armani Exchange",
-        "Name": "AX1034",
+        "Brand": "Ray-Ban",
+        "Name": "RB3447V Round Metal Optics",
         "First Book Status": "Best Seller",
         "Second Book Status": "None",
-        "Former Price": "$ 153.00",
+        "Former Price": "$ 210.00",
         "Current Price": "None",
         "Discount Percentage": "None"
     },
     {
         "Brand": "Ray-Ban",
-        "Name": "RB6238 Optics",
+        "Name": "RB8903 Optics",
+        "First Book Status": "Best Seller",
+        "Second Book Status": "None",
+        "Former Price": "$ 276.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Michael Kors",
+        "Name": "MK4135U Tortola",
+        "First Book Status": "None",
+        "Second Book Status": "Universal Fit",
+        "Former Price": "$ 161.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Polo Ralph Lauren",
+        "Name": "PH2262",
+        "First Book Status": "None",
+        "Second Book Status": "Sustainable",
+        "Former Price": "$ 181.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Ray-Ban",
+        "Name": "RB7211 Optics",
+        "First Book Status": "None",
+        "Second Book Status": "None",
+        "Former Price": "$ 189.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Oakley",
+        "Name": "OX8140 Litebeam",
+        "First Book Status": "Best Seller",
+        "Second Book Status": "Sustainable",
+        "Former Price": "$ 187.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Oakley",
+        "Name": "OX8046 Airdrop\u2122",
+        "First Book Status": "Best Seller",
+        "Second Book Status": "Sustainable",
+        "Former Price": "$ 227.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Ray-Ban",
+        "Name": "RB7046 Erika Optics",
+        "First Book Status": "Best Seller",
+        "Second Book Status": "None",
+        "Former Price": "$ 176.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Scuderia Ferrari",
+        "Name": "FZ7001",
+        "First Book Status": "None",
+        "Second Book Status": "Sustainable",
+        "Former Price": "$ 191.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Ray-Ban",
+        "Name": "RB5154 Clubmaster Optics",
+        "First Book Status": "None",
+        "Second Book Status": "None",
+        "Former Price": "$ 222.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Armani Exchange",
+        "Name": "AX3029",
+        "First Book Status": "Best Seller",
+        "Second Book Status": "None",
+        "Former Price": "$ 132.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Coach",
+        "Name": "HC6243U",
+        "First Book Status": "None",
+        "Second Book Status": "Universal Fit",
+        "Former Price": "$ 210.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Ray-Ban",
+        "Name": "RB5169 Optics",
+        "First Book Status": "Best Seller",
+        "Second Book Status": "None",
+        "Former Price": "$ 186.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Emporio Armani",
+        "Name": "EA1027",
+        "First Book Status": "Best Seller",
+        "Second Book Status": "None",
+        "Former Price": "$ 183.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Arnette",
+        "Name": "AN7252 Kamaya",
+        "First Book Status": "None",
+        "Second Book Status": "None",
+        "Former Price": "$ 98.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Oakley",
+        "Name": "OX3222 Steel Plate\u2122",
+        "First Book Status": "Best Seller",
+        "Second Book Status": "None",
+        "Former Price": "$ 255.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Oakley",
+        "Name": "OX3227 Fuller\u2122",
+        "First Book Status": "Best Seller",
+        "Second Book Status": "None",
+        "Former Price": "$ 242.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Vogue Eyewear",
+        "Name": "VO5305B",
+        "First Book Status": "Best Seller",
+        "Second Book Status": "None",
+        "Former Price": "$ 181.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Coach",
+        "Name": "HC6040 Brooklyn",
+        "First Book Status": "Best Seller",
+        "Second Book Status": "None",
+        "Former Price": "$ 232.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Emporio Armani",
+        "Name": "EA3233",
+        "First Book Status": "None",
+        "Second Book Status": "Sustainable",
+        "Former Price": "$ 210.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Burberry",
+        "Name": "BE2344 Edison",
+        "First Book Status": "Best Seller",
+        "Second Book Status": "Sustainable",
+        "Former Price": "$ 327.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Ray-Ban",
+        "Name": "RB5268 Optics",
+        "First Book Status": "Best Seller",
+        "Second Book Status": "None",
+        "Former Price": "$ 176.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Oakley",
+        "Name": "OX8060 Overhead",
+        "First Book Status": "Best Seller",
+        "Second Book Status": "None",
+        "Former Price": "$ 172.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Ray-Ban",
+        "Name": "RB6448 Hexagonal Optics",
+        "First Book Status": "None",
+        "Second Book Status": "None",
+        "Former Price": "$ 210.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Oakley",
+        "Name": "OX8178 Rafter",
+        "First Book Status": "Best Seller",
+        "Second Book Status": "Sustainable",
+        "Former Price": "$ 172.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Coach",
+        "Name": "HC6232U",
+        "First Book Status": "None",
+        "Second Book Status": "Universal Fit",
+        "Former Price": "$ 210.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Ray-Ban",
+        "Name": "RB3857V Frank Optics",
+        "First Book Status": "None",
+        "Second Book Status": "None",
+        "Former Price": "$ 210.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Oakley",
+        "Name": "OX8163 Centerboard",
+        "First Book Status": "Best Seller",
+        "Second Book Status": "None",
+        "Former Price": "$ 187.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Armani Exchange",
+        "Name": "AX3108U",
+        "First Book Status": "None",
+        "Second Book Status": "Sustainable",
+        "Former Price": "$ 132.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Michael Kors",
+        "Name": "MK4060U Telluride",
+        "First Book Status": "Best Seller",
+        "Second Book Status": "Sustainable",
+        "Former Price": "$ 161.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Michael Kors",
+        "Name": "MK4110U Avila",
+        "First Book Status": "Best Seller",
+        "Second Book Status": "Sustainable",
+        "Former Price": "$ 161.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Ray-Ban",
+        "Name": "RB0298V Mega Hawkeye Optics",
         "First Book Status": "None",
         "Second Book Status": "None",
         "Former Price": "$ 222.00",
@@ -572,6 +923,123 @@
         "First Book Status": "None",
         "Second Book Status": "Sustainable",
         "Former Price": "$ 208.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Ray-Ban",
+        "Name": "RB7159 Optics",
+        "First Book Status": "Best Seller",
+        "Second Book Status": "None",
+        "Former Price": "$ 222.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Ralph by Ralph Lauren",
+        "Name": "RA7133U",
+        "First Book Status": "None",
+        "Second Book Status": "Universal Fit",
+        "Former Price": "$ 141.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Oakley",
+        "Name": "OX8039 Chamfer\u2122",
+        "First Book Status": "None",
+        "Second Book Status": "Sustainable",
+        "Former Price": "$ 227.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Ralph by Ralph Lauren",
+        "Name": "RA7146",
+        "First Book Status": "None",
+        "Second Book Status": "None",
+        "Former Price": "$ 141.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Oakley",
+        "Name": "OX3218 Socket 5.5",
+        "First Book Status": "Best Seller",
+        "Second Book Status": "None",
+        "Former Price": "$ 227.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Ray-Ban",
+        "Name": "RB6335 Optics",
+        "First Book Status": "Best Seller",
+        "Second Book Status": "None",
+        "Former Price": "$ 210.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Ray-Ban",
+        "Name": "RB1536 Optics Kids",
+        "First Book Status": "Kids",
+        "Second Book Status": "None",
+        "Former Price": "$ 110.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Michael Kors",
+        "Name": "MK3012 Adrianna IV",
+        "First Book Status": "Best Seller",
+        "Second Book Status": "None",
+        "Former Price": "$ 186.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Oakley",
+        "Name": "OX8055 Exchange",
+        "First Book Status": "Best Seller",
+        "Second Book Status": "None",
+        "Former Price": "$ 242.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Ray-Ban",
+        "Name": "RB7185",
+        "First Book Status": "None",
+        "Second Book Status": "None",
+        "Former Price": "$ 162.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Ray-Ban",
+        "Name": "RB5418 Optics",
+        "First Book Status": "None",
+        "Second Book Status": "None",
+        "Former Price": "$ 210.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Armani Exchange",
+        "Name": "AX1018",
+        "First Book Status": "Best Seller",
+        "Second Book Status": "None",
+        "Former Price": "$ 153.00",
+        "Current Price": "None",
+        "Discount Percentage": "None"
+    },
+    {
+        "Brand": "Ray-Ban",
+        "Name": "RB7140 Optics",
+        "First Book Status": "Best Seller",
+        "Second Book Status": "None",
+        "Former Price": "$ 237.00",
         "Current Price": "None",
         "Discount Percentage": "None"
     },
